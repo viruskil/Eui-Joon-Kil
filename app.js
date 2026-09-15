@@ -163,11 +163,11 @@ if (combinedRosterGrid && featuredRoster) {
 
 /* Keep the complete lab roster visible and attach reference-based portraits. */
 const referenceMemberImages = {
-  '곽명환': { src: 'member-myeonghwan-kwak.png', alt: '곽명환의 참고 이미지 기반 프로필 사진' },
-  '강정훈': { src: 'member-jeonghun-kang.png', alt: '강정훈의 참고 이미지 기반 프로필 사진' },
-  '전지호': { src: 'member-jiho-jeon.png', alt: '전지호의 참고 이미지 기반 프로필 사진' },
-  '권민혁': { src: 'member-minhyeok-kwon.png', alt: '권민혁의 참고 이미지 기반 프로필 사진' },
-  '손만철': { src: 'member-mancheol-son.png', alt: '손만철의 참고 이미지 기반 프로필 사진' }
+  '곽명환': { src: 'member-myeonghwan-kwak.jpg', alt: '곽명환의 참고 이미지 기반 프로필 사진' },
+  '강정훈': { src: 'member-jeonghun-kang.jpg', alt: '강정훈의 참고 이미지 기반 프로필 사진' },
+  '전지호': { src: 'member-jiho-jeon.jpg', alt: '전지호의 참고 이미지 기반 프로필 사진' },
+  '권민혁': { src: 'member-minhyeok-kwon.jpg', alt: '권민혁의 참고 이미지 기반 프로필 사진' },
+  '손만철': { src: 'member-mancheol-son.jpg', alt: '손만철의 참고 이미지 기반 프로필 사진' }
 };
 document.querySelectorAll('.members .member-profile').forEach(card => {
   const heading = card.querySelector('h3');
