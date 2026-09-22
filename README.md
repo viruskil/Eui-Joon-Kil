@@ -1,9 +1,7 @@
-# Eui-Joon Kil · Virology Lab
+# GKNU Virology Lab
 
-Research website for Professor Eui-Joon Kil's Virology Lab at Gyeongkuk National University.
+The official homepage of the Gyeongkuk National University Virology Lab is hosted on Sites:
 
-The site presents the lab's research themes, selected publications, projects, international collaboration network, and the complete research-member roster in one place.
+**[바이러스학연구실 | 국립경국대학교 식물의학과](https://gknu-virology-lab.still-bead-2421.chatgpt.site/)**
 
-## GitHub Pages
-
-The site is deployed automatically from the `main` branch using GitHub Actions.
+This GitHub repository contains the redirect page used by the GitHub Pages address.
